@@ -1,0 +1,14 @@
+.App {
+    text-align: center;
+    font-size: 3rem;
+
+}
+.buttons {
+    display: flex;
+    margin: 12px;
+    justify-content: center;
+}
+.buttons button {
+    font-size: 3rem;
+    margin: 4px;
+}
