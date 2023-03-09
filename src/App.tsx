@@ -1,6 +1,6 @@
-import "./App.css";
-import TodoList from "./components/TodoList";
-import UserList from "./components/UserList";
+import './App.css'
+import TodoList from './components/TodoList'
+import UserList from './components/UserList'
 
 const App: React.FC = () => {
   return (
@@ -9,7 +9,7 @@ const App: React.FC = () => {
       <hr/>
       <TodoList />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
